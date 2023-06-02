@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Agile Project Management Portal.props" />
+</Project>
